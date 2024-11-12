@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\SistemaAlquileres\bin\Debug\SistemaAlquileres.exe.config
+C:\Users\gabri\source\repos\SistemaAlquileres\bin\Debug\SistemaAlquileres.exe
+C:\Users\gabri\source\repos\SistemaAlquileres\bin\Debug\SistemaAlquileres.pdb
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.Properties.Resources.resources
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.FormInicio.resources
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.exe
+C:\Users\gabri\source\repos\SistemaAlquileres\obj\Debug\SistemaAlquileres.pdb
