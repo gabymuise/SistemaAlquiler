@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SistemaAlquileres.Model.Entities
 {
-    public class ItemElectrodomesticos
+    public class ItemElectrodomesticos : Item
     {
     }
+    
 }

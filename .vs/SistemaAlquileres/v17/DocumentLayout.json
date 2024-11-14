@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\",
+  "WorkspaceRootPath": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\view\\alquiler\\formalquilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\alquiler\\formalquilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\gabri\\source\\repos\\sistemaalquileres\\view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\gabri\\source\\repos\\sistemaalquileres\\view\\alquiler\\formalquilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\alquiler\\formalquilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemelectronica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemelectronica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\view\\usuario\\forminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\usuario\\forminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\iteminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\iteminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\gabri\\source\\repos\\sistemaalquileres\\view\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\view\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -54,90 +46,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAlquilar.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Alquiler\\FormAlquilar.cs",
-              "RelativeDocumentMoniker": "View\\Alquiler\\FormAlquilar.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Alquiler\\FormAlquilar.cs",
-              "RelativeToolTip": "View\\Alquiler\\FormAlquilar.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwBEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Item.cs",
+              "RelativeToolTip": "Model\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T22:46:39.936Z",
+              "WhenOpened": "2024-11-14T03:08:52.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormCrearUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
-              "RelativeDocumentMoniker": "View\\Usuario\\FormCrearUsuario.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
-              "RelativeToolTip": "View\\Usuario\\FormCrearUsuario.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAJAAAAAAAAAA==",
+              "Title": "ItemElectrodomesticos.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectrodomesticos.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\ItemElectrodomesticos.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectrodomesticos.cs",
+              "RelativeToolTip": "Model\\Entities\\ItemElectrodomesticos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T22:09:14.288Z",
+              "WhenOpened": "2024-11-14T03:08:49.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormInicio.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\FormInicio.cs",
-              "RelativeDocumentMoniker": "View\\FormInicio.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\FormInicio.cs",
-              "RelativeToolTip": "View\\FormInicio.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ItemElectronica.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectronica.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\ItemElectronica.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectronica.cs",
+              "RelativeToolTip": "Model\\Entities\\ItemElectronica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:46:01.007Z",
+              "WhenOpened": "2024-11-14T03:08:47.441Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormAlquilar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Alquiler\\FormAlquilar.cs",
-              "RelativeDocumentMoniker": "View\\Alquiler\\FormAlquilar.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Alquiler\\FormAlquilar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "View\\Alquiler\\FormAlquilar.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:26:25.493Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormIniciarSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormIniciarSesion.cs",
-              "RelativeDocumentMoniker": "View\\Usuario\\FormIniciarSesion.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormIniciarSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "View\\Usuario\\FormIniciarSesion.cs [Dise\u00F1o]",
+              "Title": "ItemInmuebles.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemInmuebles.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\ItemInmuebles.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemInmuebles.cs",
+              "RelativeToolTip": "Model\\Entities\\ItemInmuebles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:25:36.123Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormCrearUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
-              "RelativeDocumentMoniker": "View\\Usuario\\FormCrearUsuario.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "View\\Usuario\\FormCrearUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:24:44.592Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-14T03:08:46.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\FormInicio.cs",
-              "RelativeDocumentMoniker": "View\\FormInicio.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\FormInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "View\\FormInicio.cs [Dise\u00F1o]",
+              "Title": "ItemTransporte.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemTransporte.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\ItemTransporte.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemTransporte.cs",
+              "RelativeToolTip": "Model\\Entities\\ItemTransporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:02:07.228Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-14T03:08:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Model\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:08:38.053Z",
+              "EditorCaption": ""
             }
           ]
         }

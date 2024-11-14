@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaAlquileres.Model.Entities
 {
-    public class ItemInmuebles
+    public class ItemInmuebles : Item
     {
     }
 }
