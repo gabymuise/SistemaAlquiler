@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemelectronica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemelectronica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\iteminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\iteminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\itemtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\itemtransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,72 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Item.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\Item.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Item.cs",
-              "RelativeToolTip": "Model\\Entities\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:52.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemElectrodomesticos.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectrodomesticos.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\ItemElectrodomesticos.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectrodomesticos.cs",
-              "RelativeToolTip": "Model\\Entities\\ItemElectrodomesticos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:49.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ItemElectronica.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectronica.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\ItemElectronica.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemElectronica.cs",
-              "RelativeToolTip": "Model\\Entities\\ItemElectronica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:47.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ItemInmuebles.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemInmuebles.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\ItemInmuebles.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemInmuebles.cs",
-              "RelativeToolTip": "Model\\Entities\\ItemInmuebles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:46.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemTransporte.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemTransporte.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\ItemTransporte.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\ItemTransporte.cs",
-              "RelativeToolTip": "Model\\Entities\\ItemTransporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:44.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "Model\\Entities\\Usuario.cs",
@@ -119,7 +46,46 @@
               "RelativeToolTip": "Model\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T03:08:38.053Z",
+              "WhenOpened": "2024-11-14T04:58:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controller\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\ItemController.cs",
+              "RelativeToolTip": "Controller\\ItemController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:54:23.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlquilerController.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\AlquilerController.cs",
+              "RelativeDocumentMoniker": "Controller\\AlquilerController.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\AlquilerController.cs",
+              "RelativeToolTip": "Controller\\AlquilerController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA1wCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:54:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "Controller\\UsuarioController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:14:50.989Z",
               "EditorCaption": ""
             }
           ]

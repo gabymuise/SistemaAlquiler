@@ -14,5 +14,6 @@ namespace SistemaAlquileres.Model.Entities
         public string email { get; set; }
         public string tipo_membresia { get; set; }
         public DateTime deletedAt { get; set; }
+
     }
 }
