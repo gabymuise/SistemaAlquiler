@@ -57,7 +57,7 @@
             this.lblTitle.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.Location = new System.Drawing.Point(301, 34);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(226, 38);
+            this.lblTitle.Size = new System.Drawing.Size(220, 37);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Crear Usuario";
             // 
@@ -71,6 +71,7 @@
             this.linkVolverInicioSesion.TabIndex = 1;
             this.linkVolverInicioSesion.TabStop = true;
             this.linkVolverInicioSesion.Text = "Volver";
+            this.linkVolverInicioSesion.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkVolverInicioSesion_LinkClicked);
             // 
             // lblSubTitle
             // 
@@ -105,19 +106,19 @@
             // textBoxCrearNombre
             // 
             this.textBoxCrearNombre.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBoxCrearNombre.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxCrearNombre.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCrearNombre.Location = new System.Drawing.Point(335, 217);
             this.textBoxCrearNombre.Name = "textBoxCrearNombre";
-            this.textBoxCrearNombre.Size = new System.Drawing.Size(189, 25);
+            this.textBoxCrearNombre.Size = new System.Drawing.Size(189, 28);
             this.textBoxCrearNombre.TabIndex = 5;
             // 
             // textBoxCrearEmail
             // 
             this.textBoxCrearEmail.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBoxCrearEmail.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxCrearEmail.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCrearEmail.Location = new System.Drawing.Point(335, 254);
             this.textBoxCrearEmail.Name = "textBoxCrearEmail";
-            this.textBoxCrearEmail.Size = new System.Drawing.Size(189, 25);
+            this.textBoxCrearEmail.Size = new System.Drawing.Size(189, 28);
             this.textBoxCrearEmail.TabIndex = 6;
             // 
             // btnCrearUsuario
@@ -132,12 +133,13 @@
             this.btnCrearUsuario.TabIndex = 7;
             this.btnCrearUsuario.Text = "Crear";
             this.btnCrearUsuario.UseVisualStyleBackColor = false;
+            this.btnCrearUsuario.Click += new System.EventHandler(this.btnCrearUsuario_Click);
             // 
             // lblCreado
             // 
             this.lblCreado.AutoSize = true;
             this.lblCreado.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCreado.Location = new System.Drawing.Point(346, 353);
+            this.lblCreado.Location = new System.Drawing.Point(259, 352);
             this.lblCreado.Name = "lblCreado";
             this.lblCreado.Size = new System.Drawing.Size(101, 22);
             this.lblCreado.TabIndex = 8;

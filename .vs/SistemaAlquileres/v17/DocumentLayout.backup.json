@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\gabri\\source\\repos\\sistemaalquileres\\view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:model\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\vicente\\documents\\sistemaalquiler\\controller\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:controller\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|c:\\users\\gabri\\source\\repos\\sistemaalquileres\\view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE27AD2D-3C49-47BC-9138-23C63B478FAC}|SistemaAlquileres.csproj|solutionrelative:view\\usuario\\formcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -38,55 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Model\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Model\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Model\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormCrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
+              "RelativeDocumentMoniker": "View\\Usuario\\FormCrearUsuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
+              "RelativeToolTip": "View\\Usuario\\FormCrearUsuario.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T04:58:56.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\ItemController.cs",
-              "RelativeDocumentMoniker": "Controller\\ItemController.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\ItemController.cs",
-              "RelativeToolTip": "Controller\\ItemController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T04:54:23.403Z",
+              "WhenOpened": "2024-11-15T12:05:59.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AlquilerController.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\AlquilerController.cs",
-              "RelativeDocumentMoniker": "Controller\\AlquilerController.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\AlquilerController.cs",
-              "RelativeToolTip": "Controller\\AlquilerController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA1wCwAAAAsAAAAAAAAAA==",
+              "Title": "FormCrearUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs",
+              "RelativeDocumentMoniker": "View\\Usuario\\FormCrearUsuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\SistemaAlquileres\\View\\Usuario\\FormCrearUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "View\\Usuario\\FormCrearUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T04:54:22.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\SistemaAlquiler\\Controller\\UsuarioController.cs",
-              "RelativeToolTip": "Controller\\UsuarioController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T04:14:50.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T12:04:46.532Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

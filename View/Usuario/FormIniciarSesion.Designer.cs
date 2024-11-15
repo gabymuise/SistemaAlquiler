@@ -56,7 +56,7 @@
             this.lblTitle.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.Location = new System.Drawing.Point(301, 34);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(256, 38);
+            this.lblTitle.Size = new System.Drawing.Size(248, 37);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Sistema Alquiler";
             // 
@@ -70,6 +70,7 @@
             this.linkVolverInicio.TabIndex = 1;
             this.linkVolverInicio.TabStop = true;
             this.linkVolverInicio.Text = "Volver";
+            this.linkVolverInicio.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkVolverInicio_LinkClicked);
             // 
             // lblSubTitle
             // 
@@ -104,18 +105,19 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(335, 217);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(189, 25);
+            this.textBox1.Size = new System.Drawing.Size(189, 28);
             this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox2.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(335, 254);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(189, 22);
+            this.textBox2.Size = new System.Drawing.Size(189, 28);
             this.textBox2.TabIndex = 6;
             // 
             // btnEntrar
@@ -130,6 +132,7 @@
             this.btnEntrar.TabIndex = 7;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = false;
+            this.btnEntrar.Click += new System.EventHandler(this.btnEntrar_Click);
             // 
             // linkCrearUsuario
             // 
@@ -141,6 +144,7 @@
             this.linkCrearUsuario.TabIndex = 8;
             this.linkCrearUsuario.TabStop = true;
             this.linkCrearUsuario.Text = "Crear Usuario";
+            this.linkCrearUsuario.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkCrearUsuario_LinkClicked);
             // 
             // FormIniciarSesion
             // 

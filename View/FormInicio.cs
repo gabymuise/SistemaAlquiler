@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SistemaAlquileres.View.Usuario;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,13 @@ namespace SistemaAlquileres
         public FormInicio()
         {
             InitializeComponent();
+        }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            FormIniciarSesion formIniciarSesion = new FormIniciarSesion();
+            formIniciarSesion.Show();
+            this.Hide();
         }
     }
 }
